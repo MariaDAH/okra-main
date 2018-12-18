@@ -52,7 +52,7 @@ to find a balance, responsible and healthy way of consuming natural resources.
 
   Initialize npm package with main project information. Go to terminal, locate in project directory and type npm init
 
-  ![System packages](doc/img/npminit.png "Npm init")
+  ![System packages](doc/img/npminit.PNG "Npm init")
     
 
 ## Okra - main deploy and run (Development environment)
