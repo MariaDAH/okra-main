@@ -40,6 +40,10 @@ to find a balance, responsible and healthy way of consuming natural resources.
 
     And again for angular router: bower install angular-route --save
 
+    Upgraded bootstrap version: bower update bootstrap 
+
+    To check all versions: ncu -m bower
+
 
   * http-server (set up lightweight server to run application in a development environment)
     To install globally a development server in the machine npm install -g http-server
